@@ -24,4 +24,4 @@ class BinarySearchTree:
     def is_empty(self):
         return self.node_count == 0
 
-    
+    def 
